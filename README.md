@@ -1,4 +1,4 @@
-# Visual-BVC: Integration of Optic Flow for Bio-inspired Navigation
+# Integration of visual signals into a boundary vector cells model for navigation
 
 ![Python](https://img.shields.io/badge/python-3.8.10-blue) ![CARLA](https://img.shields.io/badge/CARLA%20Simulator-0.9.14-orange)
 
